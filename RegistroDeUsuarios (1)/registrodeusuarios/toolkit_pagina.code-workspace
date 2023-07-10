@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../toolkit_pagina"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RegistroDeUsuarios (1)"
+	}
+}
